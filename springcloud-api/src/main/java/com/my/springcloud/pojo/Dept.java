@@ -1,4 +1,4 @@
-package com.my.mapper.springcloud.pojo;
+package com.my.springcloud.pojo;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
