@@ -9,8 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>springcloud-provider-dept-8001</artifactId>
-
+    <artifactId>springcloud-provider-dept-8003</artifactId>
     <dependencies>
         <!--需要拿到api中定义的实体类-->
         <dependency>
